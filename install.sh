@@ -1,6 +1,5 @@
 #! /bin/bash
-printf "**installin**  
-درحال نصب** " >&2**
+printf "**installing**درحال نصب** " >&2**
 {
 sudo useradd -m ALOK
 sudo adduser ALOK sudo
