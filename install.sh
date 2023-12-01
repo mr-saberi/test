@@ -1,5 +1,5 @@
 #! /bin/bash
-printf "agar hoselat sar raft az channel nardebane danesh dar youtube didan kon" >&2
+printf "**installin**   <br>درحال نصب  " >&2
 {
 sudo useradd -m ALOK
 sudo adduser ALOK sudo
